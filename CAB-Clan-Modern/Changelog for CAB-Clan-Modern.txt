@@ -2,6 +2,10 @@ Changelog for CAB-Clan-Modern
 
 -----------------------------------------------------
 
+1.2
+
+Added the Solitaire
+
 1.1
 
 Added the Canis

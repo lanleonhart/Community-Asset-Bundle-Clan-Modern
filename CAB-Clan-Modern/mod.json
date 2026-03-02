@@ -2237,7 +2237,21 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_canisbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/canis/chrprfweap_canis_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_canisbase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/solitaire/chrPrfComp_solitaire_simgame.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_solitairebase-001.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/solitaire/chrPrfComp_solitaire_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/solitaire/chrPrfComp_solitaire_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/solitaire/chrprfweap_solitaire_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/solitaire/chrprfweap_solitaire_centertorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/solitaire/chrprfweap_solitaire_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/solitaire/chrprfweap_solitaire_lefttorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/solitaire/chrprfweap_solitaire_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" },
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/solitaire/chrprfweap_solitaire_lefttorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_solitairebase-001" }
 	
     ]
 }

@@ -78,6 +78,10 @@ IonRapter, FrostRaptor, Transient74
 Moders:
 Sidewinder
 
+IonRapter, Transient74
+Moders:
+Solitaire
+
 OnlyQ, Transient
 Models:
 Omen
